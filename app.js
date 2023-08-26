@@ -135,4 +135,4 @@ const removeFromCart = (productName) => {
 renderProducts()
 renderCartItems()
 
-// Developed By SeyedMohammadMahdi Kiaei
+// Developed By Mohammad Kiaei
